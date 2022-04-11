@@ -2,9 +2,9 @@
   
     제작기간 : 약 1달
     제작언어 : Go v1.10
-    구동환경 : - Server [ linux ]
+    구동환경 : - Server [ linux ] ( module base 'ECHO' )
               - Mariadb 10.x [ linux ]
-              - Cleint [ win ]
+              - Cleint [ win ] ( module base 'LXW' )
     구동방식 : Direct Rest API 
           
 ## 사용방법

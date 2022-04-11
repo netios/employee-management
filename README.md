@@ -4,7 +4,7 @@
     제작언어 : Go v1.10
     구동환경 : - Server [ linux ] ( module base 'ECHO' )
               - Mariadb 10.x [ linux ]
-              - Cleint [ win ] ( module base 'LXW' )
+              - Cleint [ win ] ( module base 'lxn/walk' )
     구동방식 : Direct Rest API 
           
 ## 사용방법
